@@ -130,5 +130,3 @@ flowchart TD
 
 ## Prototipagem
 Figma - https://www.figma.com/design/FrWsF1g1JfdSFVsF7KEOKB/CineFavorito?node-id=0-1&t=5xIAS5svrHcpaZcg-1
-
-## Codificação
