@@ -8,14 +8,14 @@ Construir um Aplicativo do Zero - O CineFavorite permitirá criar uma conta e bu
 - Listagem de filmes por palavra-chave.
 
 ## Levantamento de Requisitos do Projeto
-    ### Requisitos Funcionais
+### Requisitos Funcionais
 - Usuário pode criar conta, fazer login e logout.
 - Buscar filmes por palavra-chave usando a API TMDB.
 - Adicionar, remover e atualizar filmes favoritos.
 - Visualizar galeria de filmes favoritos com poster e nota.
 - Dar nota aos filmes favoritos.
 
-    ### Requisitos Não Funcionais
+  ### Requisitos Não Funcionais
 - Aplicativo rápido e responsivo.
 - Dados de usuário e favoritos seguros.
 - Interface intuitiva e compatível com Android/iOS.
